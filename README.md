@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Edgardy 👾
 
-<!--
-**Edgardy715/Edgardy715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Seguridad Informática en el ITLA. Me apasiona entender cómo se comunican los sistemas (redes) y encontrar formas de automatizar procesos aburridos mediante código, ademas de estar en constante aprendizaje sobre la seguridad de los sistemas y sus brechas. 
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack 
+* **Infraestructura & OS:** Cisco (CCNA 3), Linux, Windows Server.
+* **Código & Scripting:** Python (Selenium), Bash, C#, Visual Basic, .NET.
+* **Datos:** SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 ¿En qué trabajo actualmente?
+* 🎵 Desarrollando un reproductor de música personalizado en C# con interfaz gráfica.
+* 🤖 Creando scripts de automatización en Python para extracción de datos y gestión de tareas.
+* 🕸️ Diseñando laboratorios de topologías para redes empresariales.
+
+Siempre probando herramientas nuevas y rompiendo cosas en entornos controlados para aprender
