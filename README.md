@@ -100,11 +100,6 @@ Acceso remoto y FortiGate: [L2TP over IPsec](https://github.com/Edgardy715/VPN_L
 
 ### 📊 Actividad
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Edgardy715/Edgardy715/output/stats.svg" height="165" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/Edgardy715/Edgardy715/output/top-langs.svg" height="165" alt="Lenguajes más usados" />
-</p>
-
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edgardy715/Edgardy715/output/bomberman-contribution-graph-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edgardy715/Edgardy715/output/bomberman-contribution-graph.svg">
